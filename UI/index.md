@@ -1,7 +1,7 @@
 ---
 layout: "layout"
 ---
-# 2021
+# 2022
 * [dgb](dgb/)
 * [mwa](mwa/)
 * [rektor](rektor/)

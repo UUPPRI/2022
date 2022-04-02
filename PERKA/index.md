@@ -1,6 +1,6 @@
 ---
 layout: "layout"
 ---
-# 2021
+# 2022
 * [LAN](LAN/)
 * [LIPI](LIPI/)
