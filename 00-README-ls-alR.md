@@ -77,6 +77,7 @@ scripts.html
 
 ./INPRES:
 index.md
+INPRES-2022-001-OPTIMALISASI-PELAKSANAAN-PROGRAM-JAMINAN-KESEHATAN-NASIONAL.pdf
 
 ./KEPDIRJEN:
 DIKTI
@@ -271,6 +272,7 @@ index.md
 
 ./PP:
 index.md
+PP-2022-004-PERUBAHAN-PP-57-2021-STANDAR-NASIONAL-PENDIDIKAN.pdf
 
 ./_site:
 00-README-ls-alR.html
@@ -549,6 +551,7 @@ index.html
 
 ./_site/UU:
 index.html
+UU-2022-003-IBU-KOTA-NEGARA.pdf
 
 ./SKB:
 index.md
