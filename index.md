@@ -3,12 +3,12 @@ layout: "layout"
 ---
 
 <br>
-# Tahun XXXX
+# Tahun 2022
 
 Himpunan / Kumpulan Peraturan Negara Kesatuan Republik Indonesia (NKRI): Undang Undang Dasar 1945 (UUD 45), Undang Undang (UU), Peraturan Pemerintah Pengganti Undang-Undang (PERPU), Peraturan Pemerintah (PP), Peraturan Menteri (PERMEN), Peraturan Presiden (PERPRES), Surat Keputusan (SK), dan Peraturan Universitas Indonesia (UI).
 
-| [2020](https://uuppri.github.io/2020/) | [2021](https://uuppri.github.io/2021/) || [2021](https://uuppri.github.io/2021/) | [2021](https://uuppri.github.io/2021/) |
-| [2021](https://uuppri.github.io/2021/) | [Arsip Lama Peraturan NKRI](https://uu.vlsm.org/)  || [2021](https://uuppri.github.io/2021/) | [00-README-ls-alR](00-README-ls-alR.md) |
+| [2019](https://uuppri.github.io/2019/) | [2020](https://uuppri.github.io/2020/) || [2021](https://uuppri.github.io/2021/) | [2021](https://uuppri.github.io/2021/) |
+| [2022](https://uuppri.github.io/2022/) | [Arsip Lama Peraturan NKRI](https://uu.vlsm.org/)  || [2022](https://uuppri.github.io/2022/) | [00-README-ls-alR](00-README-ls-alR.md) |
 | [UUD45](45UUD/)             | [Undang-Undang 1945](45UUD/)     || [IDX](IDX/)                 | [Indonesia Stock Exchange](IDX/)          |
 | [INPRES](INPRES/)           | [Instruksi Presiden](INPRES/)    || [KEPDIRJEN](KEPDIRJEN/)     | [Keputusan Direktur Jendral](KEPDIRJEN/)            |
 | [KEPMEN](KEPMEN/)           | [Keputusan Menteri](KEPMEN/)     ||
