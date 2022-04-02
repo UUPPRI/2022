@@ -3,7 +3,7 @@ layout: "layout"
 ---
 
 <br>
-# 2021
+# 2022
 ```
 .:
 00-README-ls-alR.md
@@ -332,6 +332,7 @@ index.html
 
 ./_site/INPRES:
 index.html
+INPRES-2022-001-OPTIMALISASI-PELAKSANAAN-PROGRAM-JAMINAN-KESEHATAN-NASIONAL.pdf
 
 ./_site/KEPDIRJEN:
 DIKTI
@@ -522,6 +523,7 @@ index.html
 
 ./_site/PP:
 index.html
+PP-2022-004-PERUBAHAN-PP-57-2021-STANDAR-NASIONAL-PENDIDIKAN.pdf
 
 ./_site/SKB:
 index.html
