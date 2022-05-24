@@ -195,6 +195,7 @@ index.md
 
 ./PERMEN/DAGRI:
 index.md
+PERMEN-DAGRI-2022-073-Permendagri-No-73-Tahun-2022-tentang-Pencatatan-Nama-pada-Dokumen-Kependudukan.pdf
 
 ./PERMEN/DIKBUD:
 index.md
@@ -531,6 +532,7 @@ MENPANRB
 
 ./_site/SKB/MENPANRB:
 index.html
+SKB-MEPANRB-2022-01-HARI-LIBUR-NASIONAL-DAN-CUTI-BERSAMA-2022.pdf
 
 ./_site/UI:
 dgb
