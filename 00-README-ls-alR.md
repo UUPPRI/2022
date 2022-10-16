@@ -10,6 +10,7 @@ layout: "layout"
 45UUD
 about.md
 assets
+BI
 _config.yml
 favicon.ico
 Gemfile
@@ -61,6 +62,9 @@ default.jpg
 
 ./assets/scripts:
 includeScript.py
+
+./BI:
+index.md
 
 ./IDX:
 index.md
@@ -280,6 +284,7 @@ PP-2022-004-PERUBAHAN-PP-57-2021-STANDAR-NASIONAL-PENDIDIKAN.pdf
 45UUD
 ABOUT
 assets
+BI
 favicon.ico
 IDX
 index.html
@@ -327,6 +332,9 @@ default.jpg
 
 ./_site/assets/scripts:
 includeScript.py
+
+./_site/BI:
+index.html
 
 ./_site/IDX:
 index.html
@@ -447,6 +455,7 @@ index.html
 
 ./_site/PERMEN/DAGRI:
 index.html
+PERMEN-DAGRI-2022-073-Permendagri-No-73-Tahun-2022-tentang-Pencatatan-Nama-pada-Dokumen-Kependudukan.pdf
 
 ./_site/PERMEN/DIKBUD:
 index.html
