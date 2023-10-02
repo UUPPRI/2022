@@ -272,6 +272,8 @@ index.md
 
 ./PERPU:
 index.md
+PERPU-2022-001-PERUBAHAN-UU-7-2017-tentang-PEMILIHAN-UMUM.pdf
+PERPU-2022-002-CIPTA-KERJA.pdf
 
 ./PNPS:
 index.md
